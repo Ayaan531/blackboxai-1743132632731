@@ -8,7 +8,7 @@ const cars = [
         topSpeed: '211 mph',
         acceleration: '0-60 mph in 2.5s',
         power: '986 hp',
-        image: 'assets/images/ferrari-sf90.jpg',
+        image: 'assets/images/placeholder.svg',
         description: 'The SF90 Stradale is Ferrari\'s first series production PHEV (Plug-in Hybrid Electric Vehicle).'
     },
     {
@@ -19,7 +19,7 @@ const cars = [
         topSpeed: '217 mph',
         acceleration: '0-60 mph in 2.8s',
         power: '759 hp',
-        image: 'assets/images/lamborghini-aventador.jpg',
+        image: 'assets/images/placeholder.svg',
         description: 'The Aventador SVJ represents the purest essence of a Lamborghini super sports car.'
     },
     {
@@ -30,7 +30,7 @@ const cars = [
         topSpeed: '205 mph',
         acceleration: '0-60 mph in 2.6s',
         power: '640 hp',
-        image: 'assets/images/porsche-911.jpg',
+        image: 'assets/images/placeholder.svg',
         description: 'The 911 Turbo S combines performance with everyday usability like no other supercar.'
     },
     {
@@ -41,7 +41,7 @@ const cars = [
         topSpeed: '212 mph',
         acceleration: '0-60 mph in 2.8s',
         power: '710 hp',
-        image: 'assets/images/mclaren-720s.jpg',
+        image: 'assets/images/placeholder.svg',
         description: 'The 720S redefines the boundaries of supercar performance and technology.'
     },
     {
@@ -52,7 +52,7 @@ const cars = [
         topSpeed: '211 mph',
         acceleration: '0-60 mph in 3.4s',
         power: '715 hp',
-        image: 'assets/images/aston-martin.jpg',
+        image: 'assets/images/placeholder.svg',
         description: 'The DBS Superleggera is the ultimate GT, offering devastating performance.'
     }
 ];
